@@ -13,7 +13,7 @@
 Для оформления списка источников использовать \bibliography команду  
 Пример выполнения данной лабораторной:
 
-![labs1 text](https://github.com/dekada314/RPIIS/blob/patch-1/labs/screens/lab1_text)
+![labs1 text](https://github.com/jwwo76/RPIIS/blob/%D0%A1%D0%B0%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%90/labs/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-12%20235208.png)
 
 # Лабораторная работа 3
 
@@ -30,6 +30,12 @@
 * `git checkout -b` — создаёт ветку и сразу переключается на неё
 * `git checkout` — переходит на указанный коммит или ветку (в зависимости от аргумента)
 * `git log` — выводит историю коммитов
+
+## Примеры команд:
+
+![скриншоты](https://github.com/jwwo76/RPIIS/blob/%D0%A1%D0%B0%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%90/labs/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-12%20225313.png)
+![скриншоты](https://github.com/jwwo76/RPIIS/blob/%D0%A1%D0%B0%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%90/labs/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-12%20230553.png)
+![скриншоты](https://github.com/jwwo76/RPIIS/blob/%D0%A1%D0%B0%D0%B2%D1%87%D0%B5%D0%BD%D0%BA%D0%BE_%D0%90/labs/images/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-11-12%20230539.png)
 
 
 ## Вывод
