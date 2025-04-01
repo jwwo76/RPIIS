@@ -24,6 +24,7 @@
 ## Алгоритмы 
 
 - Объединение (Union) — объединяет два множества в одно.
+
 Мой пример реализации:
 ```C++
 
@@ -74,4 +75,10 @@ void find(const vector<mnozh>& set,char ch) {
 ## Тестирование
 
 Пример работы программы:
+
 ![скрин](image.png)
+
+## Источники
+Algorithmica
+
+- https://ru.algorithmica.org/cs/set-structures/dsu/
